@@ -529,5 +529,14 @@ footer .copyright
     display: block;
 }
 
+.slogan{
+    background-color: black
 
+}
+.header-text h2
+{
+    font-size: 60px;
+    color: #fff;
+    text-transform: uppercase;
+}
 }
